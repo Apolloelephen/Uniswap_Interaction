@@ -1,8 +1,10 @@
-# Sample Hardhat Project
+# Uniswap Interaction
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Screnshots
+![Screenshot from 2024-02-26 18-26-28](https://github.com/Apolloelephen/Uniswap_Interaction/assets/90451195/ef52c0cf-b2f4-425e-baa1-ea753858393d)
 
-Try running some of the following tasks:
+this shows interaction with the read only function
+
 
 ```shell
 npx hardhat help
